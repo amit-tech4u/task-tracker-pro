@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import ThemeToggle from './ThemeToggle';
-import { AppBar, Toolbar, Typography, Box, IconButton } from '@mui/material';
+import { AppBar, Toolbar, Typography, Box } from '@mui/material';
 
 const Header = () => (
   <AppBar position="static">
